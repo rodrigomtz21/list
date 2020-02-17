@@ -1,0 +1,1 @@
+{"version":3,"sources":["DeviceCard.css"],"names":[],"mappings":"AAAA,mBACI,eACJ,CAEA,qBACI,gBACJ","file":"main.bf72d5db.chunk.css","sourcesContent":[".content-accordion {\n    padding: 10% 30% 10% 30%;\n}\n\n.btn-outline-primary {\n    margin-left: 10px;       \n}"]}
